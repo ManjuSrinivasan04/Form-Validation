@@ -1,3 +1,4 @@
+#FORM VALIDATION
 It is important to validate the form submitted by the user because it can have inappropriate values. So, validation is must to authenticate user.
 
 JavaScript provides facility to validate the form on the client-side so data processing will be faster than server-side validation.
